@@ -1,0 +1,2 @@
+require('./getFreeApartments');
+require('./getPaidApartments');

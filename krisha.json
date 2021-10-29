@@ -1,0 +1,9 @@
+{
+  "environment": "production",
+  "db": "mongodb://localhost:27017/krisha",
+  "getFreeFlatsCrone": "* * * * *",
+  "getPaidFlatsCrone": "* * * * *",
+  "proxyLogin":"Selashimerarus",
+  "proxyPass":"D8i8gG3s",
+  "useProxy":true
+}
